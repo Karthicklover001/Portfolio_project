@@ -10,7 +10,7 @@ function About() {
           <img className="photo" src={photo} alt="photo...." />
           <div className="text1">
             <h4>
-              I'm Silambarasu but you can just call me Silambu.
+              I'm Karthick venkidusamy.
               <br />
               <br />
             </h4>
