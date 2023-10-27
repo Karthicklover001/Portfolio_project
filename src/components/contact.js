@@ -81,7 +81,7 @@ export default function () {
         <div className="social">
           <p className="para ">GitHub</p>
           <a
-            href="https://github.com/silambuas"
+            href="https://github.com/Karthicklover001"
             rel="noreferrer"
             target="_blank"
           >
@@ -96,22 +96,12 @@ export default function () {
           </a>
           <p className="para">LinkedIn</p>
           <a
-            href="https://www.linkedin.com/in/silambarasu-a/"
+            href="https://in.linkedin.com/in/karthick-venkidusamy-037a85298"
             rel="noreferrer"
             target="_blank"
           >
             <div className="text-hover">
               <img className="linkedin" src={linkedin} alt="Linkedin...." />
-            </div>
-          </a>
-          <p className="para">Resume</p>
-          <a
-            href="https://drive.google.com/file/d/1cLXThbMemG9Y-jTtChCFT1ROX_Ov0M9d/view?usp=drivesdk"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <div className="text-hover">
-              <img className="resume" src={download} alt="Resume...." />
             </div>
           </a>
         </div>
